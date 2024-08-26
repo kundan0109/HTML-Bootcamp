@@ -1,0 +1,101 @@
+.header {
+  background-color: #1f2937;
+  /* height: 500px; */
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 2%;
+}
+
+.right {
+  color: white;
+  padding-left: 100px;
+  font-size: 48px;
+}
+a {
+  color: rgb(179, 189, 198);
+  padding-right: 50px;
+  text-decoration: none;
+  font-size: 24px;
+  justify-content: space-evenly;
+}
+
+img {
+  width: 400px;
+  padding: auto;
+  margin: 2px 50px 2px 50px;
+}
+
+.main {
+  display: flex;
+  padding: 2%;
+  background-color: #1f2937;
+  color: white;
+}
+
+button {
+  background-color: aquamarine;
+  border-radius: 6px;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.box{
+    width: 130px;
+    height: 130px;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+
+.parent{
+    display: flex;
+    justify-content: center;
+}
+
+.outerBox{
+    width: 250px;
+}
+
+
+.last{
+    background-color: rgb(116, 177, 210);
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h2{
+    text-align: end;
+}
+
+
+.bottom{
+    background-color: rgb(169, 217, 217);
+    display: flex;
+    justify-content: center;
+}
+
+.inside{
+    height: 200px;
+    width: 1000px;
+    border-radius: 30px;
+    background-color: #042452;
+    /* padding: 100px 50px 100px 50px; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+    text-align: left;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+#kk{
+    height: 30px;
+}
